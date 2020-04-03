@@ -15,4 +15,7 @@ This program is a Discord Bot Spammer that connects to a server, than can send t
 * Run start.bat
 * Enter the last numbers of the discord invite and click join (ONLY IF THE BOTS HAVENT JOINED THE SERVER BEFORE)
 * Click start to start spamming and stop to end it. (the stop button just ends all tasks named 'python.exe'. this may have to be adjusted for linux.)
+
 NOTICES: Currently only the text spammer works. I will work to update and add support for the imager spammer.
+
+For further info about setup, check the wiki. (Recommended for absolute beginners.)
