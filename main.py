@@ -87,7 +87,7 @@ def start():
 
     if (option == 'Text Spammer'):
         for token in userToken:
-            p = subprocess.Popen([pythonCommand,'executables/textspam.py', token, spam_text, 'null'])
+            p = subprocess.Popen([pythonCommand,'executables/textspammer.py', token, spam_text, 'null'])
     elif (option == 'Image Spammer'):
         pass
 
